@@ -26,6 +26,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-- [Acesse o projeto finalizado, online](https://kelvynq.github.io/DevLinks/)
+- [Acesse o projeto finalizado, online](https://kelvynq.github.io/Jogo-Mario/)
 
 
